@@ -80,6 +80,8 @@ public class Main {
     public static void addNewMovie() {
         System.out.println("Enter title:");
         String title = scanner.nextLine();
+
+
         System.out.println("Enter author:");
         String author = scanner.nextLine();
         System.out.println("Enter year:");
